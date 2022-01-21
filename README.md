@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushsahu03
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in web development/Ml Porjects
+- 🌱 I’m currently learning Python
 - 📫 How to reach me - aayush.sahu.03@gmail.com
 
 <!---
